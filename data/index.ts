@@ -116,7 +116,7 @@ export const projects = [
     title: "AI Resume Builder - Craft the Perfect Resume with Smart Assistance",
     des: "Create professional resumes effortlessly with our AI Resume Builder, featuring an intuitive drag-and-drop interface for seamless customization.",
     img: "/ai-resume-builder.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/strapi.svg", "/c.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/strapi-logo.svg", "/c.svg"],
     link: "https://ai-resume-builder-dusky-two.vercel.app",
   },
 ];
